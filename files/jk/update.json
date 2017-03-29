@@ -1,0 +1,8 @@
+{
+  "packageManager": "github",
+  "name": "jk",
+  "repo": "nagilum/jk",
+  "files": {
+    "include": ["jk.js", "jk.min.js"]
+  }
+}
